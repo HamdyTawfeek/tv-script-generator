@@ -202,7 +202,7 @@ vincent==0.4.4
 wcwidth==0.1.7
 webencodings==0.5
 websockets==4.0.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.1.0
 wordcloud==1.4.1
 wptools==0.4.7
