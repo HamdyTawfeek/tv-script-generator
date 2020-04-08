@@ -3,6 +3,7 @@
 */.ipynb_checkpoints/*
 
 ### Data ###
+/data
 *.csv
 *.dat
 *.efx
@@ -15,6 +16,5 @@
 *.tax2010
 *.vcf
 *.xml
-*.txt
 *.xlsx
 *.xls
