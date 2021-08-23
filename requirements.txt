@@ -73,7 +73,7 @@ json5==0.8.5
 jsonschema==2.6.0
 jupyter-client==5.2.4
 jupyter-core==4.4.0
-jupyterlab==1.0.9
+jupyterlab==1.2.21
 jupyterlab-server==1.0.0
 Keras==2.0.9
 librosa==0.5.1
